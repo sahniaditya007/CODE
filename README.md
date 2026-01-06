@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sahniaditya007/CODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahniaditya007/CODE/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sahniaditya007/CODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sahniaditya007/CODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahniaditya007/CODE/tree/master/0090-subsets-ii) |
 ## Backtracking
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sahniaditya007/CODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahniaditya007/CODE/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sahniaditya007/CODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sahniaditya007/CODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahniaditya007/CODE/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
