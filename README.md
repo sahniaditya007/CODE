@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/sahniaditya007/CODE/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sahniaditya007/CODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahniaditya007/CODE/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/sahniaditya007/CODE/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sahniaditya007/CODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahniaditya007/CODE/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/sahniaditya007/CODE/tree/master/0509-fibonacci-number) |
+| [0931-minimum-falling-path-sum](https://github.com/sahniaditya007/CODE/tree/master/0931-minimum-falling-path-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sahniaditya007/CODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahniaditya007/CODE/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/sahniaditya007/CODE/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
