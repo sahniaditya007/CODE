@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sahniaditya007/CODE/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/sahniaditya007/CODE/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/sahniaditya007/CODE/tree/master/0931-minimum-falling-path-sum) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahniaditya007/CODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -84,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahniaditya007/CODE/tree/master/0005-longest-palindromic-substring) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahniaditya007/CODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
