@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahniaditya007/CODE/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sahniaditya007/CODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sahniaditya007/CODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahniaditya007/CODE/tree/master/0064-minimum-path-sum) |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sahniaditya007/CODE/tree/master/0322-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahniaditya007/CODE/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sahniaditya007/CODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
