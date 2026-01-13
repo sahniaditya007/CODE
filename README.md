@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sahniaditya007/CODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahniaditya007/CODE/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/sahniaditya007/CODE/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahniaditya007/CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sahniaditya007/CODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahniaditya007/CODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sahniaditya007/CODE/tree/master/0322-coin-change) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sahniaditya007/CODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sahniaditya007/CODE/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/sahniaditya007/CODE/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahniaditya007/CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sahniaditya007/CODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahniaditya007/CODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sahniaditya007/CODE/tree/master/0322-coin-change) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sahniaditya007/CODE/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/sahniaditya007/CODE/tree/master/0072-edit-distance) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahniaditya007/CODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahniaditya007/CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
