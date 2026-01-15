@@ -100,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sahniaditya007/CODE/tree/master/0300-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sahniaditya007/CODE/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sahniaditya007/CODE/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sahniaditya007/CODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
