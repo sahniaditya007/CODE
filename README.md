@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sahniaditya007/CODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sahniaditya007/CODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sahniaditya007/CODE/tree/master/0416-partition-equal-subset-sum) |
+| [0503-next-greater-element-ii](https://github.com/sahniaditya007/CODE/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/sahniaditya007/CODE/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/sahniaditya007/CODE/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sahniaditya007/CODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sahniaditya007/CODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahniaditya007/CODE/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/sahniaditya007/CODE/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sahniaditya007/CODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahniaditya007/CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahniaditya007/CODE/tree/master/0145-binary-tree-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/sahniaditya007/CODE/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
